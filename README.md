@@ -1,4 +1,4 @@
-# workout_tracker
+# wWrkout_Tracker
 Steps to set up the project on your local machine:  
 For zip downloads, unzip the folder and go to step 4.
 1) Make a new folder.  
